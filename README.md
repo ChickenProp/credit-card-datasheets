@@ -1,1 +1,1 @@
-This is intended to be a set of credit-card sized datasheets that I can print onto card and keep with my Raspberry Pi for easy reference.
+This is a set of credit-card sized datasheets for chips that I use with a Raspberry Pi. I've printed and cut them out for easy reference. They might be useful to other people as well.
